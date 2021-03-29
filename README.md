@@ -28,3 +28,8 @@ Install Pillow
 $ pip3 install pillow
 
 ```
+
+
+
+
+

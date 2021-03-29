@@ -13,4 +13,18 @@ This project consists of 4 main Python scripts.
 4. **face_recognition_final.py** : The final face recognizer app that will place a name label based on the face, along with a confidence score. You must define the list of users before running, as well as have the trainer create the .yaml file in step 3. 
 
 ### Install dependencies
-Make sure to install OpenCV. Follow this tutorial to get started:
+Install Open CV. 
+
+```bash
+$ pip3 install opencv-contrib-python==4.1.0.25
+$ sudo apt-get install -y libatlas-base-dev libhdf5-dev libhdf5-serial-dev libjasper-dev  libqtgui4  libqt4-test
+```
+Follow [this page](https://pimylifeup.com/raspberry-pi-opencv/) for more details.
+
+
+Install Pillow
+
+```bash
+$ pip3 install pillow
+
+```

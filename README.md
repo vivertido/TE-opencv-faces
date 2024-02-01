@@ -1,5 +1,5 @@
 # TE-opencv-faces
-Team Edge facial recognition project using Open CV. 
+Team Edge facial recognition project using Open CV on the Raspberry Pi. 
 This project is based on the Instructables tutorial by [Marcelo Rovai](https://www.instructables.com/Real-time-Face-Recognition-an-End-to-end-Project/) - 
 [Real-Time Face Recognition: An End-to-End Project](https://www.instructables.com/Real-time-Face-Recognition-an-End-to-end-Project/)
 
